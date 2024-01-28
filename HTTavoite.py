@@ -1,17 +1,3 @@
-######################################################################
-# CT60A0203 Ohjelmoinnin perusteet
-# Tekijä: Otto Hongisto
-# Opiskelijanumero: 001754850
-# Päivämäärä: 9.12.2023
-# Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
-# lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla: -
-#
-# Mahdollisen vilppiselvityksen varalta vakuutan, että olen tehnyt itse
-# tämän tehtävän ja vain yllä mainitut henkilöt sekä lähteet ovat
-# vaikuttaneet siihen yllä mainituilla tavoilla.
-######################################################################
-# Harjoitustyö (tavoitetaso)
-# eof
 
 import HTTavoiteKirjasto
 
